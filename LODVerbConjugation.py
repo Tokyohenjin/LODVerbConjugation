@@ -1,4 +1,3 @@
-```Python
 #Definitions and import
 import requests
 #import re
@@ -165,4 +164,3 @@ for item in newerList:
                 parseErrorList.append([item[0],item[2]])
     except:
         parseErrorList.append([item[0],item[2]])
-```
